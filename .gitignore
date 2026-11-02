@@ -30,3 +30,9 @@ yarn-error.log*
 
 # 缩略图缓存
 Thumbs.db
+
+# 密钥（绝对不能提交！）
+.github-token.txt
+*.key
+*.pem
+*.secret
